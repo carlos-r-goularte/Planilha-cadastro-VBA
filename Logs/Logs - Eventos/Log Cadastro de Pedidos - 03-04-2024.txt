@@ -1,0 +1,11 @@
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 03-04-2024 08:44:44 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 03-04-2024 08:44:44 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 03-04-2024 08:44:44 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 03-04-2024 08:44:44 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 03-04-2024 08:44:52 - SISTEMA ENCERRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 03-04-2024 08:46:37 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 03-04-2024 08:46:37 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 03-04-2024 08:46:37 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 03-04-2024 08:46:37 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 03-04-2024 08:46:42 - Botão de alterar pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 03-04-2024 08:46:42 - Tentativa de alterar nenhum pedido selecionado

@@ -1,0 +1,53 @@
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 15:39:02 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 15:39:03 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 15:39:03 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 15:39:03 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 15:39:06 - SISTEMA ENCERRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 15:39:09 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 15:39:09 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 15:39:09 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 15:39:09 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 15:39:14 - SISTEMA ENCERRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:08:52 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:08:52 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:08:52 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:08:52 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:14:13 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:14:13 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:14:13 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:14:13 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:14:41 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:14:41 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:14:41 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:14:41 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 09-04-2024 17:14:43 - Botão de pesquisar pedido pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:14:43 - Iniciando nova busca
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 09-04-2024 17:14:44 - Número do pedido validado, chamando funções para conexão com API
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 09-04-2024 17:14:44 - Número do Pedido: 2222222222222
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:14:44 - Inicializando busca dos dados via API Fluig
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:14:49 - Erro Conexão com Fluig
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:14:49 - Número do pedido anterior:  | Número do pedido alterado: 2222222222222
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 09-04-2024 17:14:55 - Botão de apagar todos os dados do form pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 09-04-2024 17:14:55 - Clicado em 'SIM' para apagar todos os dados preenchidos
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:14:55 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:14:56 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:14:56 - Dados apagados do Form
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:15:03 - SISTEMA ENCERRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:15:29 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:15:29 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:15:29 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:15:29 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:16:41 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:16:41 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:16:41 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:16:41 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:20:11 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:20:11 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:20:11 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:20:11 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:20:14 - SISTEMA ENCERRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:20:32 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:20:32 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:20:32 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:20:32 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 09-04-2024 17:20:35 - SISTEMA ENCERRADO

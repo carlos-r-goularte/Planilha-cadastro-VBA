@@ -1,0 +1,5 @@
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 10-04-2024 17:06:22 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 10-04-2024 17:06:22 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 10-04-2024 17:06:22 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 10-04-2024 17:06:22 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 10-04-2024 17:06:23 - SISTEMA ENCERRADO

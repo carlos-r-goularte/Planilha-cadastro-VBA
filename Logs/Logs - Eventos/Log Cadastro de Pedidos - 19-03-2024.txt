@@ -1,0 +1,250 @@
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 08:47:41 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 08:47:41 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 08:47:41 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 08:47:41 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 08:47:43 - Botão de pesquisar pedido pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 08:47:43 - Iniciando nova busca
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 08:47:43 - Número do pedido validado, chamando funções para conexão com API
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 08:47:43 - Número do Pedido: 2222222222222
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 08:47:44 - Inicializando busca dos dados via API Fluig
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 08:47:52 - Erro Conexão com Fluig
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 08:47:53 - SISTEMA ENCERRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 08:55:30 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 08:55:30 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 08:55:30 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 08:55:30 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 08:55:31 - SISTEMA ENCERRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:32:09 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:32:09 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:32:09 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:32:09 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:32:13 - SISTEMA ENCERRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:33:04 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:33:04 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:33:04 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:33:04 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:33:05 - SISTEMA ENCERRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:30 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:30 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:30 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:30 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:34:32 - Botão de pesquisar pedido pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:32 - Iniciando nova busca
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:34:32 - Número do pedido validado, chamando funções para conexão com API
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:34:32 - Número do Pedido: 2222222222222
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:32 - Inicializando busca dos dados via API Fluig
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:32 - Busca realizada com sucesso, http 200
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:32 - Conversão JSON bem suscedida
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:32 - Variáveis dos dados do pedido preenchidas corretamente
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:32 - Status do pedido alterado para: Em Calibração
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:32 - Busca concluida/encerrada
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:34:35 - Botão de alterar pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:34:35 - Tentativa de alterar um pedido já cadastrado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:36 - SISTEMA ENCERRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:38 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:38 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:38 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:38 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:34:40 - Botão de pesquisar pedido pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:40 - Iniciando nova busca
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:34:40 - Número do pedido validado, chamando funções para conexão com API
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:34:40 - Número do Pedido: 3333333333333
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:40 - Inicializando busca dos dados via API Fluig
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:40 - Busca realizada com sucesso, http 200
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:40 - Conversão JSON bem suscedida
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:40 - Variáveis dos dados do pedido preenchidas corretamente
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:40 - Status do pedido alterado para: Não Cadastrado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:40 - Busca concluida/encerrada
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:34:41 - Botão de alterar pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:41 - Status do pedido alterado para: Em Alteração
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:41 - Ativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:34:41 - Número do pedido anterior:  | Número do pedido alterado: 3333333333333
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:34:45 - Modelo do certificado (9/2024) - AK05 alterado para AK05
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:34:47 - Modelo do certificado (11/2024) - MW11 alterado para MW11
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:34:50 - Modelo do certificado (10/2024) - AK05 alterado para AK05
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:34:52 - TAG do certificado (10/2024) - AKLA095469 alterado para AKLA095469
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:34:53 - Modelo do certificado (10/2024) - AK05 alterado para AK05
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:35:19 - Modelo do certificado (11/2024) - MW11 alterado para MW11
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:35:20 - Modelo do certificado (10/2024) - AK05 alterado para AK05
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:35:33 - Botão de gravar alterações pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:35:34 - Clicado em 'SIM' para gravar as alterações
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:35:34 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:35:34 - Status do pedido alterado para: Não Cadastrado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:35:35 - Alterações salvas
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:35:36 - Botão de cadastrar pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:35:37 - Cliclado em 'SIM' para continuar cadastro do pedido
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:35:37 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:35:37 - Inicializando cadastro do pedido
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:35:37 - Cadastro do pedido finalizado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:35:37 - Status do pedido alterado para: Em Calibração
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:35:37 - Pedido 3333333333333 cadastrado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:35:37 - SISTEMA ENCERRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:06 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:06 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:06 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:06 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:22 - Botão de pesquisar pedido pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:22 - Iniciando nova busca
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:22 - Número do pedido validado, chamando funções para conexão com API
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:22 - Número do Pedido: 2222222222222
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:22 - Inicializando busca dos dados via API Fluig
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:22 - Busca realizada com sucesso, http 200
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:22 - Conversão JSON bem suscedida
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:22 - Variáveis dos dados do pedido preenchidas corretamente
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:22 - Status do pedido alterado para: Em Calibração
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:22 - Busca concluida/encerrada
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:23 - Botão de cadastrar pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:23 - Tentativa de cadastrar um pedido com status CADASTRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:24 - Botão de alterar pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:24 - Tentativa de alterar um pedido já cadastrado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:28 - Botão de pesquisar pedido pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:28 - Iniciando nova busca
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:28 - Tentativa de buscar novo pedido
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:29 - Clicado em 'SIM' para realizar busca de um outro pedido
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:29 - Botão de apagar todos os dados do form pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:30 - Clicado em 'SIM' para apagar todos os dados preenchidos
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:30 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:30 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:30 - Iniciando nova busca
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:30 - Número do pedido validado, chamando funções para conexão com API
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:30 - Número do Pedido: 3333333333333
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:30 - Inicializando busca dos dados via API Fluig
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:30 - Busca realizada com sucesso, http 200
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:30 - Conversão JSON bem suscedida
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:30 - Variáveis dos dados do pedido preenchidas corretamente
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:30 - Status do pedido alterado para: Em Calibração
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:30 - Busca concluida/encerrada
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:32 - Botão de cadastrar pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:32 - Tentativa de cadastrar um pedido com status CADASTRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:33 - Botão de cadastrar pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:33 - Tentativa de cadastrar um pedido com status CADASTRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:34 - Botão de pesquisar pedido pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:34 - Iniciando nova busca
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:34 - Tentativa de buscar novo pedido
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:36 - Clicado em 'NÃO' para cancelar a busca de um outro pedido
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:37 - Botão de apagar todos os dados do form pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:37 - Clicado em 'SIM' para apagar todos os dados preenchidos
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:37 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:37 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:39 - Botão de pesquisar pedido pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:39 - Iniciando nova busca
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:39 - Número do pedido validado, chamando funções para conexão com API
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:39 - Número do Pedido: 4444444444444
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:39 - Inicializando busca dos dados via API Fluig
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:39 - Busca realizada com sucesso, http 200
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:39 - Conversão JSON bem suscedida
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:39 - Variáveis dos dados do pedido preenchidas corretamente
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:39 - Status do pedido alterado para: Concluído
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:39 - Busca concluida/encerrada
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:50 - Botão de pesquisar pedido pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:50 - Iniciando nova busca
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:50 - Tentativa de buscar novo pedido
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:51 - Clicado em 'SIM' para realizar busca de um outro pedido
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:51 - Botão de apagar todos os dados do form pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:51 - Clicado em 'SIM' para apagar todos os dados preenchidos
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:51 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:51 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:51 - Iniciando nova busca
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:51 - Número do pedido validado, chamando funções para conexão com API
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:39:51 - Número do Pedido: 6666666666666
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:51 - Inicializando busca dos dados via API Fluig
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:53 - Erro HTTP 404
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:39:54 - SISTEMA ENCERRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:41 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:41 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:41 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:41 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:43:46 - Botão de pesquisar pedido pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:46 - Iniciando nova busca
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:43:46 - Número do pedido validado, chamando funções para conexão com API
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:43:46 - Número do Pedido: 1111111111111
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:46 - Inicializando busca dos dados via API Fluig
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:46 - Busca realizada com sucesso, http 200
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:46 - Conversão JSON bem suscedida
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:46 - Variáveis dos dados do pedido preenchidas corretamente
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:46 - Status do pedido alterado para: Não Cadastrado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:46 - Busca concluida/encerrada
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:43:51 - Botão de pesquisar pedido pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:51 - Iniciando nova busca
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:51 - Tentativa de buscar novo pedido
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:43:52 - Clicado em 'SIM' para realizar busca de um outro pedido
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:43:52 - Botão de apagar todos os dados do form pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:43:53 - Clicado em 'SIM' para apagar todos os dados preenchidos
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:53 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:53 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:53 - Iniciando nova busca
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:43:53 - Número do pedido validado, chamando funções para conexão com API
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:43:53 - Número do Pedido: 4124112414124
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:53 - Inicializando busca dos dados via API Fluig
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:55 - Erro HTTP 404
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:43:57 - Botão de pesquisar pedido pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:57 - Iniciando nova busca
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:43:57 - Número do pedido validado, chamando funções para conexão com API
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:43:57 - Número do Pedido: 1111111111111
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:57 - Inicializando busca dos dados via API Fluig
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:57 - Busca realizada com sucesso, http 200
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:57 - Conversão JSON bem suscedida
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:57 - Variáveis dos dados do pedido preenchidas corretamente
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:57 - Status do pedido alterado para: Não Cadastrado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:57 - Busca concluida/encerrada
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:43:59 - Botão de alterar pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:59 - Status do pedido alterado para: Em Alteração
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:59 - Ativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:43:59 - Número do pedido anterior:  | Número do pedido alterado: 1111111111111
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:44:01 - Modelo do certificado (2/2024) alterado de: AK05 para: AK05
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:44:02 - Modelo do certificado (2/2024) alterado de: AK05 para: TESTE
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:44:11 - Série do certificado (2/2024) alterado de: AK210103992 para: TESTESÉRIE
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:44:14 - Botão de gravar alterações pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:44:15 - Clicado em 'SIM' para gravar as alterações
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:44:15 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:44:15 - Status do pedido alterado para: Não Cadastrado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:44:16 - Alterações salvas
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:44:18 - Botão de cadastrar pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:44:19 - Cliclado em 'SIM' para continuar cadastro do pedido
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:44:19 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:44:19 - Inicializando cadastro do pedido
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:44:19 - Cadastro do pedido finalizado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:44:19 - Status do pedido alterado para: Em Calibração
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:44:19 - Pedido 1111111111111 cadastrado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:47:21 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:47:21 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:47:21 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:47:21 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:47:23 - Botão de alterar pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:47:23 - Tentativa de alterar nenhum pedido selecionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:47:24 - Botão de enviar e-mail pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  Carlos Rodrigo       - 19-03-2024 09:47:26 - Botão de dar baixa em pedidos pressionado
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 09:47:36 - SISTEMA ENCERRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 14:55:18 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 14:55:18 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 14:55:18 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 14:55:18 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 14:55:19 - SISTEMA ENCERRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 15:10:12 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 15:10:12 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 15:10:12 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 15:10:12 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 15:55:20 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 15:55:20 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 15:55:20 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 15:55:20 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:36:09 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:36:09 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:36:09 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:36:09 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:36:10 - SISTEMA ENCERRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:36:29 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:36:29 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:36:29 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:36:29 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:36:30 - SISTEMA ENCERRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:36:53 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:36:53 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:36:53 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:36:53 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:55:31 - SISTEMA ENCERRADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:55:35 - INICIANDO SISTEMA
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:55:35 - Status do pedido alterado para: Aguardando
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:55:35 - Desativando dados
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:55:35 - SISTEMA INICIADO
+laboratorio4  |  DESKTOP-CIJ5JKO  |  SISTEMA              - 19-03-2024 16:55:36 - SISTEMA ENCERRADO
